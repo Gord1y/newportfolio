@@ -1,0 +1,9 @@
+{
+  "short_name": "Port",
+  "name": "Portfolio",
+  "start_url": "./portfolio",
+  "scope": "./portfolio",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
